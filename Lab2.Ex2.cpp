@@ -1,9 +1,9 @@
-﻿#include <stdio.h>
+#include <stdio.h>
 
 int main() {
-    double a = -50.0;
-    double b = 4.0;
-    double c = 9.0;
+    const int a = -50;
+    const int b = 4;
+    const int c = 9;
     double y;
 
     // Обчислення значення функції y
